@@ -1,0 +1,22 @@
+body {
+  font-family: "Cairo", sans-serif;
+}
+.kt-avatar .kt-avatar__holder{
+    width:250px ;
+    height:250px ;
+}
+.span-error{
+    color: red
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered{
+    color: black;
+}
+.select2-container--default .select2-results__option.select2-results__option--highlighted{
+    color:black
+}
+.input-group .error{
+    -webkit-box-ordinal-group: 14;
+    -ms-flex-order: 13;
+    order: 13;
+}
+/*# sourceMappingURL=style.custom.rtl.css.map */
